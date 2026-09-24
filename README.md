@@ -3,7 +3,7 @@
 
 ## 🏗️ What I'm Building
 
-<p> FRESHTRACK </p>
+<p> FRESHTRACK an app to minimizes food waste </p>
 
 ## 🛠️ Tools I Use
 
